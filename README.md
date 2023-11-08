@@ -9,6 +9,7 @@ Awesome DDD (Ru)
 
 ### Книги
 + [Изучаем DDD – предметно-ориентированное проектирование](https://bhv.ru/product/izuchaem-ddd-predmetno-orientirovannoe-proektirovanie/) (Хононов Влад)
++ [Data Mesh. Новая парадигма работы с данными](https://bhv.ru/product/izuchaem-ddd-predmetno-orientirovannoe-proektirovanie/](https://bhv.ru/product/data-mesh-novaya-paradigma-raboty-s-dannymi/) (Дегани Жамак)
 
 ### Видео
 + [Event Storming на практических кейсах](https://www.youtube.com/watch?v=kJjuTuviZ-E)
