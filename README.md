@@ -7,6 +7,9 @@ Awesome DDD (Ru)
 
 ----
 
+### Книги
++ [Изучаем DDD – предметно-ориентированное проектирование](https://bhv.ru/product/izuchaem-ddd-predmetno-orientirovannoe-proektirovanie/) (Хононов Влад)
+
 ### Видео
 + [Event Storming на практических кейсах](https://www.youtube.com/watch?v=kJjuTuviZ-E)
 + [Проектирование микросервисов с помощью Event Storming](https://www.youtube.com/watch?v=cG9DVbcPc9M)
