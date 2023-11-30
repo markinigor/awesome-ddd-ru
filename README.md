@@ -19,9 +19,14 @@ Awesome DDD (Ru)
 
 ### Статьи
 + [Что такое Event Storming](https://agilemindset.ru/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-event-storming/)
++ [Преодоление сложности в самом сердце DDD](https://habr.com/ru/articles/587520/)
 
 ### Инстументы
 + [ContextMapper](https://contextmapper.org/) для проектирования
-+ 
+
+### Полезное
++ https://github.com/ddd-crew/ddd-starter-modelling-process
++ https://github.com/ddd-crew/welcome-to-ddd
+
 ----
 *Нашли материалы, которых еще нет в списке? Сообщество будет вам благодарно за Pull Request!*
